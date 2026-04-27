@@ -6,13 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Usage
 Install the following dependencies:
-##### Code
-`npm install @iconify/react`
-`npm install @iconify/icons-mdi`
+`npm install @iconify/react`  
+`npm install @iconify/icons-mdi`  
 `npm install google-map-react`
 
 Also use a Google Maps dev demo key at: https://developers.google.com/maps/documentation/javascript/demo-key. Copy the API key and paste into line 18 of wildfire-tracker/src/components/Map.js at the field labeled 'API-KEY'
-##### Code
 `bootstrapURLKeys={{key: 'API-KEY'}}`
 
 ## Features
