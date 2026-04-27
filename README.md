@@ -10,10 +10,10 @@ Install the following dependencies:
 `npm install @iconify/icons-mdi`  
 `npm install google-map-react`
 
-Also use a Google Maps dev demo key at: https://developers.google.com/maps/documentation/javascript/demo-key. Copy the API key and paste into line 18 of wildfire-tracker/src/components/Map.js at the field labeled 'API-KEY'
+Also use a Google Maps dev demo key at: https://developers.google.com/maps/documentation/javascript/demo-key. Copy the API key and paste into line 18 of wildfire-tracker/src/components/Map.js at the field labeled 'API-KEY'  
 `bootstrapURLKeys={{key: 'API-KEY'}}`
 
-Finally to host the project locally, run:
+Finally to host the project locally, run:  
 `npm start`
 
 ## Features
